@@ -1,0 +1,21 @@
+{
+  "generatedAt" : "2026-02-27T20:32:50Z",
+  "packs" : [
+    {
+      "author" : "mozão",
+      "download_url" : "https:\/\/raw.githubusercontent.com\/e-xf\/MotifChartPacks\/main\/packs\/MotifChart-pack-do-mozinho-1.0.0.motifpack",
+      "pack_id" : "pack-do-mozinho",
+      "palette_count" : 2,
+      "project_count" : 2,
+      "release_date" : "2026-02-27T19:45:20Z",
+      "requires_pro" : true,
+      "sha256" : "c6a79307ac8f3a26a6c3579c2d9180445b4fc50108fa77d7f59cd31a62f6103b",
+      "stamp_collection_count" : 1,
+      "status" : "active",
+      "summary" : "pack based feito especialmente pro meu mozinho 🥰",
+      "title" : "pack do mozinho",
+      "version" : "1.0.0"
+    }
+  ],
+  "schemaVersion" : 1
+}
