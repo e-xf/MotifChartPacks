@@ -1,21 +1,106 @@
 {
-  "generatedAt" : "2026-02-27T20:32:50Z",
   "packs" : [
     {
-      "author" : "mozão",
-      "download_url" : "https:\/\/raw.githubusercontent.com\/e-xf\/MotifChartPacks\/main\/packs\/MotifChart-pack-do-mozinho-1.0.0.motifpack",
-      "pack_id" : "pack-do-mozinho",
-      "palette_count" : 2,
-      "project_count" : 2,
-      "release_date" : "2026-02-27T19:45:20Z",
-      "requires_pro" : true,
-      "sha256" : "c6a79307ac8f3a26a6c3579c2d9180445b4fc50108fa77d7f59cd31a62f6103b",
-      "stamp_collection_count" : 1,
-      "status" : "active",
-      "summary" : "pack based feito especialmente pro meu mozinho 🥰",
-      "title" : "pack do mozinho",
-      "version" : "1.0.0"
+      "description" : "packzin based pro meu bb",
+      "downloadSHA256" : "1b87a8b2aaadeda944872af771ce688e731267ba211f8b2628734041951a2a74",
+      "downloadURL" : "https://raw.githubusercontent.com/e-xf/MotifChartPacks/main/packs/pack-do-mozinho.motifpack",
+      "fileSizeBytes" : 1917380,
+      "id" : "pack-do-mozinho",
+      "paletteCount" : 2,
+      "palettePreviews" : [
+        {
+          "colorHexes" : [
+            "#A5A5A5",
+            "#C3C3C3",
+            "#0F0F0F",
+            "#5A5A4B",
+            "#3C3C3C",
+            "#787878",
+            "#2D2D1E",
+            "#87695A",
+            "#5A1E1E",
+            "#A59678",
+            "#D2B487",
+            "#D2E1D2",
+            "#F0F0F0",
+            "#694B2D",
+            "#F0E1B4",
+            "#A5690F"
+          ],
+          "id" : "665d59da-820d-4823-8896-1c9c6ea95711",
+          "name" : "carninha"
+        },
+        {
+          "colorHexes" : [
+            "#FFFFFF",
+            "#F0F0D2",
+            "#5A4B4B",
+            "#3C2D2D",
+            "#877878",
+            "#F0D2B4",
+            "#969696",
+            "#696969",
+            "#B4A5A5",
+            "#1E0F0F",
+            "#B48778",
+            "#D2D2E1",
+            "#C3A578",
+            "#E1B4B4",
+            "#96694B",
+            "#E1B487"
+          ],
+          "id" : "0b7d7dde-449c-43bd-a8bc-768d7ad3cc5f",
+          "name" : "flashbang 💥"
+        }
+      ],
+      "projectCount" : 2,
+      "projectPreviews" : [
+        {
+          "cols" : 200,
+          "id" : "f81ee0eb-c909-45ca-9967-5e9b31bc9aa0",
+          "name" : "miau 😸 ",
+          "rows" : 200
+        },
+        {
+          "cols" : 20,
+          "id" : "f8787342-630e-4525-8a64-d9657c8e4bc6",
+          "name" : "oi :)",
+          "rows" : 35
+        }
+      ],
+      "releaseDate" : "2026-02-28T11:57:57Z",
+      "stampCollectionCount" : 1,
+      "stampCollectionPreviews" : [
+        {
+          "id" : "8b81e365-c2e7-4647-ba6b-3d87ebd2f845",
+          "name" : "bb 🥰",
+          "stampCount" : 2,
+          "stamps" : [
+            {
+              "cols" : 5,
+              "filledCellCount" : 7,
+              "id" : "b8f6b00f-cf4b-459b-b209-8f03b2fa4a44",
+              "name" : ":)",
+              "rows" : 5
+            },
+            {
+              "cols" : 5,
+              "filledCellCount" : 12,
+              "id" : "377022a1-59f7-4940-9df5-98d17c85f857",
+              "name" : ":p",
+              "rows" : 5
+            }
+          ]
+        }
+      ],
+      "subtitle" : "yay",
+      "tags" : [
+
+      ],
+      "tier" : "pro",
+      "title" : "pack do mozinho 🥰"
     }
   ],
-  "schemaVersion" : 1
+  "schemaVersion" : 1,
+  "updatedAt" : "2026-02-28T12:03:12Z"
 }
